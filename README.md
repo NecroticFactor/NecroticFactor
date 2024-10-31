@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and ML
 - 💞️ I’m looking to collaborate on Projects on ML
 - 📫 Let's connect on Discord: Username: dr.a07
-- ⚡ Fun fact: I love learning and also have adventures in life
+- ⚡ Fun fact: I'm a doctor, learning CS
 
 <!---
 NecroticFactor/NecroticFactor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
